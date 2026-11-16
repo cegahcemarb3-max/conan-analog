@@ -8,6 +8,10 @@ hidden until you develop the roll.
 |---|---|
 | ![back](docs/conan_camera_back.png) | ![card](docs/conan_roll_card.png) |
 
+## Download
+
+A debug-signed test build is in [`releases/ConanAF35-v0.1.0-debug.apk`](releases/ConanAF35-v0.1.0-debug.apk). Android 10 or newer, landscape only. You need to allow installs from unknown sources. It has not been tested on real hardware yet, so please open an issue if something breaks.
+
 ## Features
 
 - Tiny optical viewfinder only, no big preview. Autofocus with a red LED when in focus.
