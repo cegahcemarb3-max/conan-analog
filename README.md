@@ -10,7 +10,7 @@ hidden until you develop the roll.
 
 ## Download
 
-A debug-signed test build is in [`releases/ConanAF35-v0.1.0-debug.apk`](releases/ConanAF35-v0.1.0-debug.apk). Android 10 or newer, landscape only. You need to allow installs from unknown sources. It has not been tested on real hardware yet, so please open an issue if something breaks.
+A debug-signed test build is available on the [Releases page](https://github.com/cegahcemarb3-max/conan-analog/releases/tag/alpha). Android 10 or newer, landscape only. You need to allow installs from unknown sources. It has not been tested on real hardware yet, so please open an issue if something breaks.
 
 ## Features
 
