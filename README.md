@@ -54,10 +54,10 @@ Screenshot tests (Robolectric) render the views to `app/build/shots`:
 
 - Real panorama stitching instead of cropping.
 - Free combination of format and film stock.
+- Custom film stocks.
 - Light meter and manual exposure quirks.
 - Localization (the UI is English only).
-- On-device testing: shutter detection, battery polling, flash and haptics are untested on real hardware.
-- So far, no major bugs, but this app requires A LOT of polish
+- So far, no major bugs, but this app requires A LOT of polish.
 
 ## Notes
 
