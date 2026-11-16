@@ -57,6 +57,7 @@ Screenshot tests (Robolectric) render the views to `app/build/shots`:
 - Light meter and manual exposure quirks.
 - Localization (the UI is English only).
 - On-device testing: shutter detection, battery polling, flash and haptics are untested on real hardware.
+- So far, no major bugs, but this app requires A LOT of polish
 
 ## Notes
 
